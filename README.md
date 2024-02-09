@@ -36,7 +36,7 @@ Pastikan Anda memiliki compiler C++ yang terinstal di sistem Anda. Jika belum, A
 
 4. **Menampilkan Output**
    - Setelah menjalankan program, Anda akan melihat output belah_ etupat di layar.
-   - Anda juga dapat melihat tangkapan layar output dalam file `belah_ketupat.png`.Karena semua program memiliki output yang sama, maka saya hanya mengambil 1 tangkapan layar saja.
+   - Anda juga dapat melihat tangkapan layar output dalam file `belah_ketupat.jpg`.Karena semua program memiliki output yang sama, maka saya hanya mengambil 1 tangkapan layar saja.
 
 5. **Ulangi Langkah 3 dan 4 untuk Versi Lainnya**
    - Untuk melihat output dari versi lainnya (`while` dan `do while`), ulangi langkah-langkah di atas dengan memilih file yang sesuai (`belah_ketupat_while.cpp` atau `belah_ketupat_do_while.cpp`).
